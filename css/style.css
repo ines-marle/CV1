@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'GoldenHopes';
+    src: url("../fonts/GoldenHopes.otf") format("opentype");
+}
+    
+ h1 {
+   color:#000000 ; 
+   background-color: #8a2be2
+}
+
+
+h1, h1 + p
+{
+    text-align: center;
+    font-family: 'droid_sansregular', 'Arial', sans-serif;
+}
+
+
+h2
+{
+    font-family: 'droid_sansregular', 'Arial', sans-serif;
+    color: #ff0000;
+    background-color: #ffa500;
+    
+}
+
+ul {
+    font-style :italic;
+}
